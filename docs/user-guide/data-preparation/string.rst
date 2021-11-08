@@ -15,8 +15,8 @@ String Processors in Fire Insights
    * - Title
      - Description
    * - String Functions
-     - This node performs a specified String function on a row
+     - This node creates a new Dataframe after transforming data of selected columns using specified string function
    * - String Functions Multiple
-     - String Functions Multiple
+     - This node creates a new Dataframe by transforming data of multiple columns using specified string functions
    * - Text Case Transformer
-     - This node converts text to upper or lower case
+     - This node converts text of the selected column to upper or lower case
